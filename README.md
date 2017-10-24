@@ -5,7 +5,7 @@ The algorithms are described and theoretically analazed in the following work.
 ```
 Young Hun Jung, Jack Goetz, and Ambuj Tewari. 
 Online multiclass boosting.
-In Advances in Neural Informa- tion Processing Systems, 2017.
+In Advances in Neural Information Processing Systems, 2017.
 ```
 
 If you use this code in your paper, please cite the above work. Although it is based on this we cannot guarantee that the algorithm will work exactly, or even produce the same output, as any of these implementations.
