@@ -1,7 +1,7 @@
 # Online Multiclass Boosting
 A Python implementation of online multiclass boosting using VFDT as weak learners. 
 
-The algorithms are described and theoretically analazed in the following work. 
+The algorithms are described and theoretically analayzed in the following work. 
 ```
 Young Hun Jung, Jack Goetz, and Ambuj Tewari. 
 Online multiclass boosting.
